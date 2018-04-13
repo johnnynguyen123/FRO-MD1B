@@ -1,0 +1,32 @@
+body {
+  background-color: #ea9fdc;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+fieldset {
+text-align: center;
+color: white;
+}
+
+input[type=number] {
+  font-size: 16px;
+  padding: 10px 20px 10px 40px;
+}
+
+
+button {
+    background-color: #aefcb8;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
